@@ -1,72 +1,7 @@
 {
   "users": [
-    {
-      "email": "Ernis@mail.ru",
-      "password": "$2a$10$dA4iyMdMtKmpK4xrtcPi7ukJYItMeRcwAHzPOK9zoM9Dlw/8TNwEC",
-      "name": "Ernis",
-      "age": "22",
-      "phone": "+79854243508",
-      "address": "Moscow",
-      "id": 1
-    },
-    {
-      "email": "test@mail.ru",
-      "password": "$2a$10$nYyvsOayAyZ.XZ.mp6A.ZO72QDgtSy1X3mIPniooKLXJYdpT0vF7u",
-      "name": "dsd",
-      "age": "ds",
-      "phone": "sd",
-      "address": "ds",
-      "id": 2
-    }
   ],
   "contacts": [
-    {
-      "name": "zdvzd",
-      "age": "fghg",
-      "phone": "fghfg",
-      "email": "fgh",
-      "address": "fghfgdsdsdsdd",
-      "id": 1
-    },
-    {
-      "name": "sd",
-      "address": "fds",
-      "age": "df",
-      "phone": "fs",
-      "email": "ds",
-      "id": 2
-    },
-    {
-      "name": "Test",
-      "age": "sd",
-      "phone": "df",
-      "email": "sdfs",
-      "address": "fs",
-      "id": 3
-    },
-    {
-      "name": "sd",
-      "address": "fsdf",
-      "age": "d",
-      "phone": "s",
-      "email": "fds",
-      "id": 4
-    },
-    {
-      "name": "sd",
-      "address": "f",
-      "age": "ds",
-      "phone": "ds",
-      "email": "f",
-      "id": 5
-    },
-    {
-      "name": "sd",
-      "address": "f",
-      "age": "f",
-      "phone": "sd",
-      "email": "s",
-      "id": 6
-    }
+   
   ]
 }
