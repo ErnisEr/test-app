@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"cd test-app && npm run start\" \"json-server-auth ./db/db.json --port 3030\"",
+    "inst": "concurrently \"cd test-app && npm install\" \"npm install\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^5.2.0"
+  },
+  "devDependencies": {
+    "json-server": "^0.16.1",
+    "json-server-auth": "^2.0.2"
+  }
+}
